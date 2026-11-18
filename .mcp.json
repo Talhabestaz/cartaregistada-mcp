@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cartaregistada": {
+      "type": "http",
+      "url": "https://conta.cartaregistada.pt/mcp"
+    }
+  }
+}

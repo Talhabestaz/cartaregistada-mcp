@@ -1,0 +1,35 @@
+{
+  "jsonrpc": "2.0",
+  "id": 3,
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Carta registada com AR, 2 página(s): <total>, IVA e portes dos CTT incluídos. Paga hoje, sai para os CTT até 2026-11-20; a entrega é dos CTT, normalmente 1 a 7 dias."
+      }
+    ],
+    "structuredContent": {
+      "tipo": "registada_com_ar",
+      "paginas": 2,
+      "urgente": false,
+      "ar_digital": false,
+      "base_cents": 0,
+      "paginas_incluidas": 10,
+      "paginas_extra": 0,
+      "paginas_extra_cents": 0,
+      "urgente_cents": 0,
+      "ar_digital_cents": 0,
+      "total_cents": 0,
+      "total": "<total>",
+      "moeda": "EUR",
+      "iva_incluido": true,
+      "sai_em": "2026-11-20",
+      "preco": {
+        "origem": "avulso",
+        "cartas_pagas": 0,
+        "faltam_para_o_escalao": 10
+      },
+      "tipos_a_venda": ["registada_com_ar", "registada_sem_ar", "azul", "normal"]
+    }
+  }
+}

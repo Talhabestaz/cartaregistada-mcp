@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "pt.cartaregistada/cartaregistada",
+  "title": "cartaregistada.pt",
+  "description": "Send registered letters by post in Portugal: quote, create, track. Payment by Stripe link.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.cartaregistada.pt/assistentes",
+  "repository": {
+    "url": "https://github.com/Talhabestaz/cartaregistada-mcp",
+    "source": "github",
+    "id": "1463123740"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://conta.cartaregistada.pt/mcp"
+    }
+  ]
+}
