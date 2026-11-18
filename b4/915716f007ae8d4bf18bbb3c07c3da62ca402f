@@ -1,0 +1,33 @@
+README.md
+  s_de9bc67deb20d4::t_acf442939b3d20 1-180
+.mcp.json
+  s_de9bc67deb20d4::t_b2118257727003 1-8
+LICENSE
+  s_de9bc67deb20d4::t_5d0e9680648099 1-14
+examples/README.md
+  s_de9bc67deb20d4::t_8b13194ba5bedb 1-35
+examples/initialize.json
+  s_de9bc67deb20d4::t_e65746abbd879e 1-13
+examples/orcamento-response.json
+  s_de9bc67deb20d4::t_891b2782321880 1-35
+examples/tools-list.json
+  s_de9bc67deb20d4::t_6d4ee36a021152 1-6
+server.json
+  s_de9bc67deb20d4::t_a69cfefc36af0d 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "b4915716f007ae8d4bf18bbb3c07c3da62ca402f",
+  "prompts": {},
+  "sessions": {
+    "s_de9bc67deb20d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01bc829a-c0db-4569-ae62-ecb0e1b8795e",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Talhabestaz <pedromsobral@gmail.com>"
+    }
+  }
+}
