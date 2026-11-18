@@ -1,0 +1,21 @@
+README.md
+  s_de9bc67deb20d4::t_68809208c7f1c3 3
+server.json
+  s_de9bc67deb20d4::t_80b4e38f730fec 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6cfc573f773eadac9aa0b3ce5fefef98460ccd18",
+  "prompts": {},
+  "sessions": {
+    "s_de9bc67deb20d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01bc829a-c0db-4569-ae62-ecb0e1b8795e",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Talhabestaz <pedromsobral@gmail.com>"
+    }
+  }
+}
