@@ -1,6 +1,6 @@
 # cartaregistada.pt MCP server
 
-Send paper letters through CTT, Portugal's national postal service (physical mail, not email), from Claude, ChatGPT or any MCP client: registered mail with proof of receipt, registered, priority (azul) or regular mail. It serves any letter: complaints to insurers, telecoms and companies, rent updates, lease terminations and non-renewal notices, contract cancellations, condominium notices, letters to the tax office and social security, landlord and tenant notices, formal demands.
+Send paper letters through CTT, Portugal's national postal service (physical mail, not email), from Claude, ChatGPT or any MCP client: registered mail with proof of receipt, registered, priority (azul) or regular mail. It serves any letter: complaints to insurers, telecoms and companies, rent updates, lease terminations and non-renewal notices, contract and subscription cancellations, fine appeals, condominium notices, letters to the tax office and social security, landlord and tenant notices, formal demands.
 
 cartaregistada.pt is a Portuguese service that prints a letter, hands it to CTT (the
 Portuguese postal operator) as registered mail with or without acknowledgement of receipt
