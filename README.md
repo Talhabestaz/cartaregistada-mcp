@@ -1,6 +1,6 @@
 # cartaregistada.pt MCP server
 
-Send registered letters by post in Portugal from Claude, ChatGPT or any MCP client.
+Send paper letters through CTT, Portugal's national postal service (physical mail, not email), from Claude, ChatGPT or any MCP client: registered mail with proof of receipt, registered, priority (azul) or regular mail.
 
 cartaregistada.pt is a Portuguese service that prints a letter, hands it to CTT (the
 Portuguese postal operator) as registered mail with or without acknowledgement of receipt
