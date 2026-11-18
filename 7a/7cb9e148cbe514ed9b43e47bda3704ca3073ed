@@ -1,0 +1,19 @@
+README.md
+  s_de9bc67deb20d4::t_da57a903e9c42c 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "7a7cb9e148cbe514ed9b43e47bda3704ca3073ed",
+  "prompts": {},
+  "sessions": {
+    "s_de9bc67deb20d4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01bc829a-c0db-4569-ae62-ecb0e1b8795e",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Talhabestaz <pedromsobral@gmail.com>"
+    }
+  }
+}
